@@ -1,0 +1,9 @@
+commenting-alt+3, decommenting-alt 4
+ctrl+c to exit infinite loop
+
+Day 1 intro
+Day 2 data typesintro
+Day 3 data types detail
+Day 4 dictionary and conditions
+Day 5 dictionary editing, f string, looping
+Day 6 functions

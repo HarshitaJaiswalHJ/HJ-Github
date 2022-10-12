@@ -1,0 +1,17 @@
+LOoP:)
+1. for loop
+2. while loop
+-------------
+Functions:
+1. NO i/p NO o/p
+2. NO i/p but o/p
+3. i/p but no i/p
+4. o/p and i/p
+----------------
+1.Taking multiple i/p
+2.Returning multiple o/p
+3.Keyword Argument
+4.Default Values
+5.*args
+6.**kwargs
+

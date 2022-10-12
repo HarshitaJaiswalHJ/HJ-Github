@@ -1,0 +1,5 @@
+DAY 16
+a function can be assigned to a variable
+a function can be passed as an input argument to another function
+a function can be defined inside a python function
+a function can be returned from a function

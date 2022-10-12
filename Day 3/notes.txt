@@ -1,0 +1,89 @@
+*Strings*
+1. indexing(+ve/-ve)
+2.slicing
+
+a.find(b) gives us the index of first occurence of b in string a .
+a.replace(old,new) will replace ALL OCCURENCES of old with new in a.
+a.capitalize()
+#capitalize changes the first letter into upper case
+a.title()
+#title changes the first letter OF EACH WORD into upper case
+a.center(50)
+'                   hello world                    '
+a.center(50,'@')
+'@@@@@@@@@@@@@@@@@@@hello world@@@@@@@@@@@@@@@@@@@@'
+a.count('l')
+3
+#count counts the frequency of the particular letter
+a.lstrip()
+'hello world                    '
+a.rstrip()
+'                   hello world'
+a.isupper()
+False
+a.islower()
+True
+a.upper()
+'                   HELLO WORLD                    '
+a.startswith('he')          
+False
+
+a.endswith("d")           
+False
+
+len(a)           
+50
+
+del a[0]
+             
+Traceback (most recent call last):
+  File "<pyshell#35>", line 1, in <module>
+    del a[0]
+TypeError: 'str' object doesn't support item deletion
+b="akshat123@gmail.com"
+             
+b=b.split('@')
+             
+b
+             
+['akshat123', 'gmail.com']
+'@'.join(b)
+             
+'akshat123@gmail.com'
+------------------------------------------------------------
+List
+1.[]
+2.homo/hetro
+3.mutable--item assign etc
+4.indexing/slicing,loop
+#extend is used to insert multiple values at the end in the list         
+#append is used to insert exactly one element at the end in the list
+#insert is used to insert a value at ANY POSITION in the list
+
+#pop deletes the last element from the list and display it
+#clear is used to delete all the elements in the list
+#reverse() isused to display elements of list in reverse order
+#sort()---sort in ascending order
+#max()---maximum of the list(if possible)
+#min()---minimum of the list(if possible)
+#index()---index of the element in the list
+---------------------------------------------------------------
+Tuple
+1.()
+2.comma separated values
+3.immutable
+4.homo/hetro
+5.indexing/slicing
+----------------------------------------------------------------
+Set
+1.unordered
+2.indexing/slicing(Cannot use)
+3.unique collection
+#a.intersection(b) is used to display common values in a and b
+#a.union(b) is used to display all values in a and b
+#a.add(100) will add 100 in the set a
+#a.discard(100) will discard 100 in the set a
+#a.remove(3) will remove 3 from a 
+#a.update(s1) will add s1 set elements into set a
+#max,min,len
+

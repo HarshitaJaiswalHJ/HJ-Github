@@ -1,0 +1,19 @@
+Functions:
+1. NO i/p NO o/p
+2. NO i/p but o/p
+3. i/p but no i/p
+4. o/p and i/p
+----------------
+1.Taking multiple i/p
+2.Returning multiple o/p
+3.Keyword Argument
+4.Default Values
+5.*args
+6.**kwargs
+------------------
+input from user 
+lambda function
+-----------------
+module-----it is a .py file;Ex-OS,Math 
+packages----(collection of modules,_init_.py)
+libraries----collection of packages

@@ -1,0 +1,23 @@
+id is used to give memory location
+----------------------------------
+Python operators 
+7types
+1.Arithmetic----+,-,*,//,**
+2.Comparison/relational---->,<,>=,>=,!=,==
+3.Assignment---=,+=,-=,*=,/=,//=
+4.Bitwise----&,|,^
+5.Logical---and,or,not
+6.identity---is, is not
+7.membership----in, not in
+------------------------------------
+()---Function, Expression, Tuple
+[]---List, indexing, slicing
+{}----Set, Dictionary
+<>----NO USE
+-----------------------------------
+complex data type comes in numeric--ex.---4+5j
+list can store heterogeneous or homogeneous both types of data, can be edited
+tuple is comma separated value, cannot be edited but is faster than list
+set
+dictionary---dict---{key:value}
+boolean
